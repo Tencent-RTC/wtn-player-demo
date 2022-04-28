@@ -1,0 +1,31 @@
+{
+  "name": "wtn-player-demo",
+  "version": "1.0.0",
+  "description": "wtn player demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tencent-RTC/wtn-player-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tencent-RTC/wtn-player-demo/issues"
+  },
+  "homepage": "https://github.com/Tencent-RTC/wtn-player-demo#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/body-parser": "^1.19.2",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "tls-sig-api-v2": "^1.0.2"
+  }
+}
