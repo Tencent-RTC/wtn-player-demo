@@ -9,4 +9,14 @@ wtn player demo
 
 2, Change your own `sdkappid` and `secret` in config.ts.
 
+3, Install and Run
+
+```
+npm install 
+
+npx ts-node server.ts
+```
+
+4, Open `http://localhost:3000/` with Chrome
+
 
