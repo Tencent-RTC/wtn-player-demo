@@ -18,5 +18,9 @@ npx ts-node server.ts
 ```
 
 4, Open `http://localhost:3000/` with Chrome
+```
+`http://localhost:3000/player` for play
+`http://localhost:3000/pusher` for push
+```
 
 
