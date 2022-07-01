@@ -39,4 +39,6 @@ app.post("/config", async (req, res) => {
 
 app.listen(3000, () => {
   console.log("Server is running on port 3000");
+  console.log("pusher http://localhost:3000/pusher")
+  console.log("player http://localhost:3000/player")
 });
